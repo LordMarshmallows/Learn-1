@@ -1,8 +1,7 @@
 ﻿using System.Windows;
 
-namespace LearnTest
+namespace Learn_1
 {
-
     public partial class MainWindow : Window
     {
         public MainWindow()
